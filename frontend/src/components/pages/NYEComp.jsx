@@ -23,12 +23,15 @@ Business is conducted among people. We love building relationships with folks fr
 }
 
 const FindUs = () => {
-    const source = `Fortunately, we feel at home on the fourth floor of the historic Beard Street Warehouse at the south end of Van Brunt Street in Red Hook, Brooklyn. We pride ourselves on welcoming the widest range of thinkers, entrepreneurs, and artists we can find. Please join us in expanding this mission.
+    const source = `481 Van Brunt Street Brooklyn, New York, United States. 11231 
 
-!!! In the end, Nova Studios is a place of business with the furnishings of your best friend's living room. Come and visit us. We are always open.
+We're on the fourth floor of the Beard Street Warehouses in Red Hook, looking out at the Upper Bay, which leads into the Hudson River and the East River.   See map here: https://goo.gl/maps/9xSZ3TEHTSG2 
 
-- 481 Van Brunt Street Brooklyn
-- New York, United States. 11231`
+At the very end of Van Brunt Street, across from the Statue of Liberty, we are amongst a wide range of producers, artists and programmers building the future.  
+
+Nova is a place of business with the furnishings of your best friend's living room. Come and visit us.  We are always to new ideas and business opportunities.
+
+
 
     return (
         <div
