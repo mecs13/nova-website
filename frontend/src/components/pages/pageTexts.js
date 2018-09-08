@@ -83,9 +83,9 @@ const partnershipIntro = `# Introduction
 
 Business is conducted among people. We love building relationships with folks from all over the world. It's who we are. In the process we've discovered this mentality is the same one that builds strong partnerships. Nova is a place of business because we value the individual, understanding that the financial elements of business emerge from a genuine interest in thy neighbor.`;
 
-const findUs = `Our studio and laboratory are located at the edge of Red Hook. When Van Brunt Street meets the Upper Bay, under Liberty's watch. This part of South Brooklyn has a rich history of hard work, innovation, and the American Dream. Our building is Civil War-era, built by Robinson and Beard in the 1860s and 70s. Now it is home to a variety of artists and tradesmen that fuel the innovation Brooklyn is known for.
+const findUs = `Nova XR Media is located at the edge of Red Hook, where Van Brunt Street meets the Upper Bay. This neighborhood of South Brooklyn is historixally known for hardwork, innovation, and the American Dream come-true.  Our warehouse (481 Van Brunt St) was constructed as part of a complex of grain terminals, wharfs and shipyards in the years following the American Civil War, by Jeremiah P. Robinson and William Beard. Originally, the buildings accommodated goods and materials bound for the New York Harbor via the Great Lakes and Erie Canal. Today, these red brick structures are creatives spaces and storefronts for the artists and tradesmen that fuel the innovation Brooklyn is known for.
 
-Have an idea you want to explore? Come on by, Fridays are best!
+Have an idea you want to explore? Come on by! Fridays are best.
 
 | |Nova Media|
 |--|--|
